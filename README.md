@@ -24,8 +24,6 @@ An AI-powered system that automatically predicts dispute resolution outcomes bet
 - [Dataset](#dataset)
 - [Training Pipeline](#training-pipeline)
 - [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
