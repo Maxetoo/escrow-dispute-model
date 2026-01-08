@@ -68,7 +68,7 @@ This machine learning model analyzes consumer complaint narratives and predicts 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/escrow-dispute-model.git
+git clone https://github.com/Maxetoo/escrow-dispute-model.git
 cd escrow-dispute-model
 ```
 
